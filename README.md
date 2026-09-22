@@ -1,4 +1,4 @@
 # BabylonRAT
 A semi re-engineered BabylonRAT written in C/C++
 
-- Sample Link -> https://bazaar.abuse.ch/sample/5db6e46ae0a2f0c1c7f6f2a7ff28fa2b50f4e36b5918906111928ae6cf24ea41/
+- Sample Link -> https://bazaar.abuse.ch/sample/a17e2f106640e3451af6faab503fbbc88b7aecb4ac091fc8cb1266dea7f1cdb3/
